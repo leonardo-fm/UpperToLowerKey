@@ -1,5 +1,5 @@
 # Upper chars to lower chars short key
-An AutoHotKey function to transform Upper chars into Lower chars and vice versa for all the people who are no capable (just like me) to avoid tuching by mistake the **CapsLock Key** :D             
+An AutoHotKey function to transform Upper chars into Lower chars and vice versa for all the people who are no capable (just like me) to avoid touching by mistake the **CapsLock Key** :D             
     
 ![UpperToLower](https://user-images.githubusercontent.com/48512335/235709520-be60a1a6-e6f4-4659-9cde-e9b21903b665.gif)
 
